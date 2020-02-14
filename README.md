@@ -1,3 +1,5 @@
+Full stack restaurant application using; HTML,CSS/SASS,JavaScript on the frontend & PHP,LARAVEL,NODE.JS on the backend. This application also implements REACT.Js
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
