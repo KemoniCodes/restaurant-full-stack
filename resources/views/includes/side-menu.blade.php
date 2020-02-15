@@ -1,4 +1,4 @@
-  <div class="welcome-menu">
+  <div class="side-menu">
       <div class="logo">
        <a href="/"><img src="/img/clipart-restaurant-restaurant-logo-5.png"></a> 
       </div>
@@ -7,8 +7,11 @@
           Menu
         </div>
         <ul class="links">
-          <li>
-            <a href="/menu">Menu</a>
+        <li>
+            <a href="/menu">Food</a>
+          </li>
+        <li>
+            <a href="/about">About Us</a>
           </li>
           <li>
             <a href="/waitlist">Waitlist</a>

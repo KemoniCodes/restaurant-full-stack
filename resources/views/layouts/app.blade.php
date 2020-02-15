@@ -67,7 +67,7 @@
         </style>
     </head>
     <body>
-    <section id="welcome">
+    <section id="app-layout">
     @include('includes.side-menu')
   
     <!-- <div class="welcome-jumbo">
@@ -75,6 +75,7 @@
       <h1>Billy Burger</h1>
       <img src="/img/hamburger-and-fries-png-4.png" class="burger-fries">
     </div> -->
+    
   @yield('content')
   </section>
     </body>
