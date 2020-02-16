@@ -1,0 +1,54 @@
+#about-page {
+    padding: 100px;
+    // overflow: visible;
+    
+  
+    h1 {
+        font-size: 3rem;
+        font-weight: 700;
+        color: black;
+        padding-bottom: 2rem;
+    }
+    
+    .content-box {
+        background: white;
+        padding: 20px;
+       
+        
+    }
+    
+    p {
+        font-size: .9rem;
+        margin-bottom: 20px;
+        line-height: 1.2;
+        font-weight: 500;
+    }
+ 
+
+  
+}
+
+@media (min-width: 0px) and (max-width: 767px) {
+        #about-page {
+            padding: 20px;
+        }
+    }
+    
+    // Medium devices (tablets, 768px and up)
+    @media (min-width: 768px) and (max-width: 991px) {
+        #about-page {
+            padding: 20px;
+        }
+    }
+    
+    // Large devices (desktops, 992px and up)
+    @media (min-width: 992px) and (max-width: 1199px) {
+    }
+    
+    // Extra large devices (large desktops, 1200px and up)
+    @media (min-width: 1200px) {
+    }
+    
+    
+    
+
